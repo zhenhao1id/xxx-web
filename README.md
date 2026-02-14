@@ -1,5 +1,5 @@
 hhh，项目有点小，只有400多行代码。
-点击此链接来玩网站https://zhenhao1id.github.io/xxx-web/
+[点击此链接来玩网站](https://zhenhao1id.github.io/3D-web/)
 # xxx-web
 欢迎来到手势粒子系统！这是一个基于 Web 的交互式艺术项目，它利用您的摄像头捕捉手部动作，实时操控一个由数万颗粒子组成的绚丽 3D 世界。在这里，您的手就是魔法棒！
 
